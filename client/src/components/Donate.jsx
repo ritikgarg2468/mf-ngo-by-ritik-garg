@@ -49,7 +49,7 @@ const Donate = () => {
         prefill: {
           name: "Donor Name",
           email: "donor@example.com",
-          contact: "9876543210"
+          contact: "0000000000"
         },
         theme: {
           color: "#d4af37"
