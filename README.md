@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support or questions:
 - Email: info@musurstafoundation.org
-- Phone: +91 9876543210
+- Phone: +91 0000000000
 - Instagram: [@musurstafoundation](https://www.instagram.com/musurstafoundation)
 
 ---
